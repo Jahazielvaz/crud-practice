@@ -2,9 +2,9 @@
   "name": "crud-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server.ts",
   "scripts": {
-    "start": "nodemon build/server.js",
+    "start": "nodemon build/server.ts",
     "build": "rm -rf build/ && tsc"
   },
   "author": "",
